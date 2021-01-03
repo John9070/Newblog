@@ -1,0 +1,10 @@
+img {
+    max-width: 100%;
+    height:auto;
+}
+.page-wrapper {
+    display: flex;
+    min-height: 100vh;
+    background-image: url(/images/money-2696234_1280.jpg);
+    background-size: cover;
+}
