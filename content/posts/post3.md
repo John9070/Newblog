@@ -3,7 +3,7 @@ title = "Comment Vous pouvez prendre soin de votre Beauté"
 date = 2021-01-03T15:30:35+01:00
 draft = false
 author = "Melanie"
-Tags = ["Beauté";"soins"]
+Tags = ["Beauté", "soins"]
 +++
 
 # Pourquoi de bons soins de la peau sont-ils importants ?
