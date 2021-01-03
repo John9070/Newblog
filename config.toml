@@ -2,7 +2,7 @@ baseURL = "https://astuces.netlify.app/"
 languageCode = "fr-fr"
 hreflang = "fr-fr"
 title = "Astuces et Solution"
-paginate = 10
+paginate = 4
 
 [params]
 dateFormat = "Jan 2, 2006, 3:04PM"
