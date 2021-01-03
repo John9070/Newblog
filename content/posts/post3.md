@@ -7,7 +7,9 @@ Tags = ["Beauté";"soins"]
 +++
 
 # Pourquoi de bons soins de la peau sont-ils importants ?
+
 ![Soins de la peau](/images/beauté.jpg)
+
 ## De bons soins de la peau sont importants pour les raisons suivantes :
 
 Ils aident votre peau à rester en bon état : Vous perdez des cellules de peau tout au long de la journée, il est donc important de garder votre peau éclatante et en bon état. Une routine efficace peut aider à prévenir l'acné, à traiter les rides et à garder votre peau au meilleur de sa forme.
