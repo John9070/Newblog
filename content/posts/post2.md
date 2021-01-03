@@ -3,7 +3,7 @@ title = "Tout savoir sur les Sondages rémunérés"
 date = 2021-01-03T15:26:41+01:00
 draft = false
 author = "Melanie"
-Tags = []
+Tags = ["Sondages remuneres"]
 +++
 
 # Les Sondages en ligne
