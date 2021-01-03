@@ -8,7 +8,7 @@ Tags = ["gagner", "argent", "internet",]
 
 # Gagner de l’argent sur Internet
 
-![gagner de l'argent sur Internet] (/images/money-2696234_1280.jpg)
+![gagner de l'argent sur Internet](/images/money-2696234_1280.jpg)
 
 Il existe de nombreuses possibilités de gagner de l'argent en ligne et toute personne disposant d'un ordinateur et d'un accès à Internet peut gagner de l'argent en ligne. Vous pouvez gagner de l'argent en ligne par le biais de votre propre site web, en participant à des enquêtes et des essais de produits en ligne, et par des recommandations. De nombreuses possibilités existent, mais il n'y a pas de meilleure solution. Ce qui vous conviendra le mieux dépend de plusieurs facteurs, comme le type de site web que vous gérez et le temps libre dont vous disposez.
 
