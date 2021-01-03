@@ -1,7 +1,8 @@
 baseURL = "https://astuces.netlify.app/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-paginate = 3
+languageCode = "fr-fr"
+hreflang = "fr-fr"
+title = "Astuces et Solution du Net"
+paginate = 5
 
 [params]
 dateFormat = "Jan 2, 2006, 3:04PM"
