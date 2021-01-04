@@ -6,4 +6,4 @@ author = "Melanie"
 Tags = []
 +++
 
-Astuces et Solutions est un Site qui vous proposent les meilleures astuces sur Internet. 
+Tutoriels Pour Tous est un Site qui vous proposent les meilleures astuces sur Internet. 

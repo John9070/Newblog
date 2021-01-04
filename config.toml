@@ -1,7 +1,7 @@
 baseURL = "https://tutopourtous.netlify.app/"
 languageCode = "fr-fr"
 hreflang = "fr-fr"
-title = "Astuces et Solution"
+title = "Tutoriels Pour Tous"
 paginate = 4
 
 [params]
